@@ -1,6 +1,6 @@
 <h1 align="center" Hey👋,I'm Neha</h1>
 
-<h3 align="center">An Enthusiastic Java Developer</h3>
+
 <p align="center">Passionate for #Opensource #Code #Github</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NehaPatil03&label=Profile%20views&color=0e75b6&style=flat" alt="NehaPatil03" /> </p>
 <p align="right"> <img src="https://github.com/NehaPatil03/NehaPatil03/raw/main/d4tvukbt5mra37cvwklk.gif" alt="Coder GIF" align="right" width="400"> </p>                                             
