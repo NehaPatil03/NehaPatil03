@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="center">An Enthusiastic Java Developer</p>
+<p align="center">Passionate for #Opensource #Code #Github</
+
 <!--
 **NehaPatil03/NehaPatil03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
