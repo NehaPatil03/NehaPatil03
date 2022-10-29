@@ -7,7 +7,7 @@
 
 - Fasinate by learning Different Software Delopment & Tech Stack
 - <h3 align="left">I'm Currenly learning :</h3>
--Software Development                                                                                                                                                       
+-Front-end web development                                                                                                                                                       
 -Docker & kubernetes
 
 <h3 align="left">Languages and Tools:</h3>
