@@ -17,7 +17,7 @@
 <h4>.</h4>
 <h3 align="left"> :books: Recent Blog Posts</h3>
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🚀 [How the Web works ?](https://nehapatil03.hashnode.dev/how-the-web-works)<!-- BLOGPOSTS:END -->
   
 
 
