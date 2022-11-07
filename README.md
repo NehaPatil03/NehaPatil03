@@ -16,6 +16,7 @@
 <img align="left" alt="Cplusplus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:26px;" />   <img align="left" alt="GitBlash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:26px;" />               <img align="left" alt="Inteljidea" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:26px;" />   <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:26px;" /></p>
 <h4>.</h4>
 <h3 align="left"> :books: Recent Blog Posts</h3>
+
 <!-- BLOGPOSTS:START -->
  - 🚀 [How the Web works ?](https://nehapatil03.hashnode.dev/how-the-web-works)<!-- BLOGPOSTS:END -->
   
