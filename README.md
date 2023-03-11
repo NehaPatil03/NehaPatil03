@@ -22,7 +22,8 @@
 <h3 align="left"> :books: Recent Blog Posts</h3>
 
 <!-- BLOGPOSTS:START -->
- - 🚀 [How the Web works ?](https://nehapatil03.hashnode.dev/how-the-web-works)<!-- BLOGPOSTS:END -->
+ - 🚀 [Breaking the Limits of Classical Computing: How Quantum Computing Works](https://nehapatil03.hashnode.dev/breaking-the-limits-of-classical-computing-how-quantum-computing-works)
+ - 🌮 [How the Web works ?](https://nehapatil03.hashnode.dev/how-the-web-works)<!-- BLOGPOSTS:END -->
   
 
 
