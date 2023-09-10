@@ -7,7 +7,7 @@
 
 - The prospect of acquiring proficiency in diverse software development approaches and a variety of technology stacks has deeply fascinated me
 - <h3 align="left">I'm Currenly learning :</h3>
--Full Stack Developemt                                                                                                                                                    
+-Full Stack Development                                                                                                                                                   
 -Docker & kubernetes
 
 <h3 align="left">Languages and Tools:</h3>
